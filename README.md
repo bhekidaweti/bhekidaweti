@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bheki Daweti
-- 👀 I’m interested in Full Stack Web And Software Development
-- 🌱 I’m currently learning Web Design andin future i would like to learn full stack Web And Software Development
+- 👋 Hi i am Bhekinkosi Daweti and I am very passionate about Software Development especally Web apps.
+
+I'm currently (2023) taking cs50x and cs50w.
 -
 
 <!---
