@@ -30,9 +30,11 @@ My journey began with foundational Computer Science and web programming concepts
 ---
 
 ## 🏆 Certifications  
+🎓 **CS50 Introduction to Computer Science** – CS50 (edX 2023) 
+
 🎓 **CS50 Web Programming with Python and JavaScript** – CS50 (edX 2024) 
 
-💻 **Full Stack Engineer** – Codecademy *(2025)*  
+💻 **Full Stack Engineer** – Codecademy (2025) 
 
 ---
 
