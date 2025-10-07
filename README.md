@@ -3,7 +3,7 @@
  
 I'm a full-stack developer with experience in Django, React, and web hosting technologies.
 
-[bheki.co.uk](https://bheki.co.uk)
+[bheki.co.za](https://bheki.co.za)
 
 
 Let's code and create together! 🚀✨
