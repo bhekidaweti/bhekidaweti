@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhekinkosi Daweti  
 
-I'm a **self-taught Full Stack Developer** passionate about building web applications that are both functional and fun.  
+I'm a Full Stack Developer passionate about building web applications that are both functional and fun.  
 My journey began with foundational Computer Science and web programming concepts and I’ve since grown into a developer who loves solving real-world problems using modern technologies.
 
 ---
