@@ -68,9 +68,9 @@ I'm always open to exciting ideas and contributions — especially in:
 🚀 **Open Source Projects**
 
 📫 **Reach out:**  
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/bhekinkosi-daweti/*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhekinkosi-daweti)  
 - 🐙 [GitHub](https://github.com/bhekidaweti)  
-- ✉️ info@bheki.co.za
+- ✉️ [E-mail](bheki.daweti@gmail.com)
 
 ---
 
