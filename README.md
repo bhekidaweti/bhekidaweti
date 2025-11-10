@@ -42,6 +42,9 @@ My journey began with foundational Computer Science and web programming concepts
 
  ### 🛍️ **Winesa Shop Project** - e-commerce website
 🌍 **Open Source Contributions** – Creative Commons & OpenTelemetry (Outreachy applicant)  
+**SA Wine Farms Directory** - Nextjs, Posgres, TailwindCSS project https://sawinefarms.co.za
+**Print Shops Directory** - Nextjs, Posgres, TailwindCSS project https://printshopnearme.co.za
+
 
 ---
 
